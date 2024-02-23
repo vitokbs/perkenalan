@@ -1,2 +1,1 @@
-# perkenalan
-vito 11 mit
+tugas 1
